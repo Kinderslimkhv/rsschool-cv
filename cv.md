@@ -1,4 +1,4 @@
-# **MY CV**
+# **My CV**
 
 * Name: Andrei Vashchenko
 * Phone number: +792481184321
